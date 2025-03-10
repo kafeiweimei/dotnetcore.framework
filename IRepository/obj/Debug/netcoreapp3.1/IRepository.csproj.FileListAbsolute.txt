@@ -1,0 +1,57 @@
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.deps.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\bin\Debug\netcoreapp3.1\Models.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.xml
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.deps.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.xml
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.AssemblyReference.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.deps.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\IRepository.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\bin\Debug\netcoreapp3.1\Models.xml
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\IRepository\obj\Debug\netcoreapp3.1\IRepository.pdb

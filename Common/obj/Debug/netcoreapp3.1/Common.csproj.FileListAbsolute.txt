@@ -1,0 +1,40 @@
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Common\obj\Debug\netcoreapp3.1\Common.pdb

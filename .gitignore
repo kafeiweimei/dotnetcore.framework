@@ -1,0 +1,11 @@
+/.vs
+/Common/bin
+/IRepository/bin
+/IServices/bin
+/Models/bin
+/Repository/bin
+/Services/bin
+/DotNetCore.Framework.Api/bin
+/Tests/bin
+/Demo/bin
+/Extensions/bin

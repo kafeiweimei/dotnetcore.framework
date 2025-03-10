@@ -1,0 +1,70 @@
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\IServices.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\IServices.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\bin\Debug\netcoreapp3.1\Models.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\IServices.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\IServices.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\bin\Debug\netcoreapp3.1\Models.xml
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\Debug\netcoreapp3.1\Services.deps.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\Debug\netcoreapp3.1\Services.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\Debug\netcoreapp3.1\Services.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.deps.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\refint\Services.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\ref\Services.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.deps.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\refint\Services.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\Services.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Services\obj\Debug\netcoreapp3.1\ref\Services.dll

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Models</name>
+    </assembly>
+    <members>
+        <member name="P:Models.Entities.Advertisement.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Advertisement.ImgUrl">
+            <summary>
+            广告图片
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Advertisement.Title">
+            <summary>
+            广告标题
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Advertisement.Url">
+            <summary>
+            广告链接
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Advertisement.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Advertisement.Createdate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Submitter">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Title">
+            <summary>
+            标题
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Category">
+            <summary>
+            类别
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Traffic">
+            <summary>
+            访问量
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.CommentNum">
+            <summary>
+            评论数量
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.UpdateTime">
+            <summary>
+            修改时间
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.CreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Models.Entities.Article.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="T:Models.MessageEntity`1">
+            <summary>
+            消息实体
+            </summary>
+            <typeparam name="T">需返回的数据集合类型</typeparam>
+        </member>
+        <member name="P:Models.MessageEntity`1.Status">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="P:Models.MessageEntity`1.Success">
+            <summary>
+            操作是否成功
+            </summary>
+        </member>
+        <member name="P:Models.MessageEntity`1.Message">
+            <summary>
+            返回消息
+            </summary>
+        </member>
+        <member name="P:Models.MessageEntity`1.Response">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="T:Models.TableEntity`1">
+            <summary>
+            表实体
+            </summary>
+            <typeparam name="T">需返回的数据集合类型</typeparam>
+        </member>
+        <member name="P:Models.TableEntity`1.Status">
+            <summary>
+            返回编号
+            </summary>
+        </member>
+        <member name="P:Models.TableEntity`1.Message">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:Models.TableEntity`1.Count">
+            <summary>
+            记录总数
+            </summary>
+        </member>
+        <member name="P:Models.TableEntity`1.Datas">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="T:Models.WeatherForecast">
+            <summary>
+            天气预报模型
+            </summary>
+        </member>
+        <member name="P:Models.WeatherForecast.Date">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:Models.WeatherForecast.TemperatureC">
+            <summary>
+            摄氏温度
+            </summary>
+        </member>
+        <member name="P:Models.WeatherForecast.TemperatureF">
+            <summary>
+            华氏温度
+            </summary>
+        </member>
+        <member name="P:Models.WeatherForecast.Summary">
+            <summary>
+            摘要
+            </summary>
+        </member>
+    </members>
+</doc>

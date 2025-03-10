@@ -1,0 +1,40 @@
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

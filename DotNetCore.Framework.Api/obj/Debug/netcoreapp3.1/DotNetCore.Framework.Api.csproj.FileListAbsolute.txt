@@ -1,0 +1,539 @@
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\appsettings.Development.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\appsettings.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.exe
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.deps.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.dev.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\DotNetCore.Framework.Api.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\Xml\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SwaggerXml\netcoreapp3.1\appsettings.Development.json
+C:\SwaggerXml\netcoreapp3.1\appsettings.json
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.exe
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.deps.json
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.json
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.dev.json
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.dll
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+C:\SwaggerXml\netcoreapp3.1\DotNetCore.Framework.Api.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.exe
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.deps.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.dev.json
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SqlSugar.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DmProvider.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Kdbndp.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.Manifest.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.xml
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\DotNetCore.Framework.Api.styles.css
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.RazorTargetAssemblyInfo.cache
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+C:\Users\CoffeeMilk\Desktop\ASP.NET Core Web Api\DotNetCore.Framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.genruntimeconfig.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.exe
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.dev.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.xml
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SqlSugar.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DmProvider.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Kdbndp.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.xml
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.AssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.Manifest.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.xml
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\DotNetCore.Framework.Api.styles.css
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.RazorTargetAssemblyInfo.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.genruntimeconfig.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.StaticWebAssets.xml
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.exe
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.deps.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.dev.json
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.xml
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\MiniProfiler.Shared.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\ZstdNet.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SqlSugar.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DmProvider.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Kdbndp.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.xml
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.AssemblyReference.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfoInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfo.cs
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CoreCompileInputs.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.RazorTargetAssemblyInfo.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.Manifest.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.Pack.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DotNetCore.Framework.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DotNetCore.Framework.Api.props
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DotNetCore.Framework.Api.props
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DotNetCore.Framework.Api.props
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CopyComplete
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.genruntimeconfig.cache
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\0-AllProjectsFw\0-BS架构\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.StaticWebAssets.xml
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.exe
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.deps.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.runtimeconfig.dev.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DotNetCore.Framework.Api.xml
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\MiniProfiler.Shared.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\ZstdNet.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\SqlSugar.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\DmProvider.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Kdbndp.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Common.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Extensions.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IRepository.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\IServices.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Models.xml
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\bin\Debug\netcoreapp3.1\Services.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.RazorTargetAssemblyInfo.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.Manifest.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCore.Framework.Api.StaticWebAssets.Pack.cache
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DotNetCore.Framework.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DotNetCore.Framework.Api.props
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DotNetCore.Framework.Api.props
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DotNetCore.Framework.Api.props
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.csproj.CopyComplete
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.dll
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.pdb
+F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\obj\Debug\netcoreapp3.1\DotNetCore.Framework.Api.genruntimeconfig.cache

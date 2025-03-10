@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DotNetCore.Framework.Api
+build_property.ProjectDir = F:\AllDevelopProjects\AllGithubProjects\dotnetcore.framework\DotNetCore.Framework.Api\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

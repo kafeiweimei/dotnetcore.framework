@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotNetCore.Framework.Api</name>
+    </assembly>
+    <members>
+        <member name="M:DotNetCore.Framework.Api.Controllers.AdvertisementController.GetSum(System.Int32,System.Int32)">
+            <summary>
+            广告的Sum方法
+            </summary>
+            <param name="i">参数i</param>
+            <param name="j">参数j</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotNetCore.Framework.Api.Controllers.AdvertisementController.AddInfo(Models.Entities.Advertisement)">
+            <summary>
+            添加广告(异步)
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotNetCore.Framework.Api.Controllers.AdvertisementController.GetInfoById(System.Int32)">
+            <summary>
+            根据ID查询信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotNetCore.Framework.Api.Controllers.AdvertisementController.UpdateInfo(Models.Entities.Advertisement)">
+            <summary>
+             更新广告
+             </summary>
+             <param name="entity"></param>
+             <returns></returns>
+        </member>
+        <member name="M:DotNetCore.Framework.Api.Controllers.AdvertisementController.DeleteInfo(System.Int32)">
+            <summary>
+            删除指定广告
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DotNetCore.Framework.Api.Controllers.WeatherForecastController">
+            <summary>
+            天气预报
+            </summary>
+        </member>
+        <member name="M:DotNetCore.Framework.Api.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气信息
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
